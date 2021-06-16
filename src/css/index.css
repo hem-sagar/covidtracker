@@ -1,0 +1,13 @@
+.hero{
+    /* background-color: #000; */
+    background-image: url(../img/bg.png);
+    background-size: cover;
+    height: 100vh;
+    opacity: 0.8;
+    padding: 50px;
+}
+
+
+.details{
+    margin-top: 100px;
+}
